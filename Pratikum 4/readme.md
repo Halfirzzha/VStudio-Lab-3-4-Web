@@ -16,9 +16,3 @@ Praktikum ini bertujuan untuk memahami struktur dasar pembuatan layout dengan CS
 3. **Tata Letak Semantik**
     - Layout dibagi dengan tag semantik seperti `<header>`, `<nav>`, `<section>`, dan `<footer>`.
     - Navigasi menggunakan efek hover dan active, hero panel untuk informasi utama, dan konten utama dengan sidebar.
-
-## Screenshot
-[Tambahkan screenshot setiap langkah]
-
-## Repository
-Kunjungi [repository ini](URL_REPO) untuk melihat hasil praktikum lengkap.
