@@ -22,11 +22,3 @@ Praktikum ini bertujuan untuk melatih kemampuan dasar dalam membuat elemen HTML 
 
 4. **Validasi HTML**
     - Semua file HTML telah divalidasi melalui layanan validator online di http://validator.w3.org.
-
-## Screenshot
-[Tambahkan screenshot setiap langkah]
-
----
-
-### Repository
-Silakan kunjungi [repository ini](URL_REPO) untuk melihat kode lengkap dari praktikum ini.
